@@ -14,5 +14,6 @@ export FLASK_ENV=development
 for gclud using:  
 gcloud auth login  
 gclooud config list   
-gclooud porjects list  
-gcloud config set project flask-to-do-310603  
+gclooud projects list  
+gcloud config set project flask-to-do-310603
+export GOOGLE_CLOUD_PROJECT=flask-to-do-310603
