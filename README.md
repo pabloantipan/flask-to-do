@@ -5,9 +5,9 @@ to run server:
 flask run
 
 to config environment: 
-source venv/bin/activate\n
-export FLASK_ENV=development\n
-export FLASK_APP=main,py
+  source venv/bin/activate
+  export FLASK_ENV=development
+  export FLASK_APP=main,py
 
 remember to set up for debug mode
 
